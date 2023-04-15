@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://github.com/luizpaulogroup/html-css-js-unipar-oficina-01/blob/master/image.png" style="max-width:100%;">
+    <img src="https://github.com/luizpaulogroup/html-css-js-unipar-oficina-01/image.png" style="max-width:100%;">
 </h1>
 
 ## :rocket: Technologies
