@@ -17,8 +17,7 @@ for (let card of cards) {
             cardsClicked.push({ serie, name });
         } else {
             card.classList.remove(classCardClicked);
-
-            let index = cardsClicked.indexOf(serie);
+            let index = cardsClicked.findIndex(cardClicked => cardClicked.serie == serie);
             cardsClicked.splice(index, 1);
         }
 
