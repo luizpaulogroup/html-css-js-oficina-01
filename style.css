@@ -48,20 +48,38 @@ body {
     border: solid 2px #6CD854;
 }
 
-.no-text-card-clicked{
+.card:not(.card-clicked) {
+    animation: cardsNotClicked linear 2s infinite alternate;
+}
+
+.no-text-card-clicked {
     color: #F01 !important;
 }
 
-.text-card-clicked{
+.text-card-clicked {
     color: #6CD854 !important;
 }
 
-.text-card-clicked p{
+.text-card-clicked p {
     color: #FFF !important;
     margin: 0;
 }
 
-.text-cards-clicked{
+@keyframes cardsNotClicked {
+    0% {
+        opacity: 0.2;
+    }
+
+    50% {
+        opacity: 0.4;
+    }
+
+    100% {
+        opacity: 0.9;
+    }
+}
+
+.text-cards-clicked {
     margin-top: 100px;
     text-align: center;
     color: #FFF;
