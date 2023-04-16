@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/luizpaulogroup/html-css-js-unipar-oficina-01/main/image.png?token=GHSAT0AAAAAACBK4VNAWGLOTKDGMR2DBWYSZB2AGLA" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/luizpaulogroup/html-css-js-oficina-01/main/image.png?token=GHSAT0AAAAAACBK4VNAWGLOTKDGMR2DBWYSZB2AGLA" style="max-width:100%;">
 </h1>
 
 ## :rocket: Technologies
@@ -28,10 +28,10 @@ To clone this application, you'll need [Git](https://git-scm.com), [Node](https:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizpaulogroup/html-css-js-unipar-oficina-01
+$ git clone https://github.com/luizpaulogroup/html-css-js-oficina-01
 
 # Go into the repository
-$ cd html-css-js-unipar-oficina-01
+$ cd html-css-js-oficina-01
 
 ```
 
