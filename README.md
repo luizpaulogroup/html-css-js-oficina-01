@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/luizpaulogroup/html-css-js-oficina-01/main/image.png?token=GHSAT0AAAAAACBK4VNAWGLOTKDGMR2DBWYSZB2AGLA" style="max-width:100%;">
+    <img src="https://github.com/luizpaulogroup/html-css-js-oficina-01/blob/main/image.png?raw=true" style="max-width:100%;">
 </h1>
 
 ## :rocket: Technologies
